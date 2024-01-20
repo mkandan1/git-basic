@@ -1,3 +1,3 @@
-var appVersion = 1;
+var appVersion = 2;
 
 console.log("Version: " + appVersion);

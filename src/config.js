@@ -1,3 +1,3 @@
-const configVersion = 1;
+const configVersion = 2;
 
 console.log("Config version: " + configVersion);
