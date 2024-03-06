@@ -10,7 +10,7 @@
 4. Restore the previous version
 5. Create Remote Repository
 6. Add local repo to remote repo
-7. Remove from remote repo
+7. Remove from remote bhuvanesh repo
 8. Push branch to bhuvanesh repo
 
 
