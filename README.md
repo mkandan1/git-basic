@@ -11,7 +11,7 @@
 5. Create Remote Repository
 6. Add local repo to remote repo
 7. Remove from remote repo
-8. Push branch to repo
+8. Push branch to bhuvanesh repo
 
 
 <br/>
